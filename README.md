@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiebe Declercq</h1>
 <h3 align="center">An ambitious, creative and determined maker !</h3>
 
-- 🔭 I’m currently working on **ESPresso**
+- 🔭 I’m currently working on **Bar Buddy**
 
 - 🌱 I’m currently learning **Flutter**
 
