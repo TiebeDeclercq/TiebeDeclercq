@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://dectronics.cc/](https://dectronics.cc/)
 
-- 📫 How to reach me **tiebe.declercq1@gmail.com**
+- 📫 How to reach me **tiebedeclercq1@dectronics.cc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
