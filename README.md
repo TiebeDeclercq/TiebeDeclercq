@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiebe Declercq</h1>
 <h3 align="center">An ambitious, creative and determined maker !</h3>
 
-- 📝 I regularly write articles on [https://tiebedeclercq.be/](https://tiebedeclercq.be/)
+- 📝 I regularly write articles on [**https://tiebedeclercq.be/**](https://tiebedeclercq.be/)
 
 - 📫 How to reach me **tiebedeclercq@dectronics.cc**
 
